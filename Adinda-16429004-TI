@@ -1,0 +1,18 @@
+Judul Skripsi :
+penerapan algoritma naive bayes pada prediksi kelulusan mahasiswa [studi kasus: institut medika drg.suherman]
+abstrak:
+mahasiswa merupakan aset penting bagi sebuah insitusi pendidikan dan untuk itu perlu diperhatikan tingkat kelulusan mahasiswa. Tinggi rendahnya keberhasilan
+merupakan cerminan kualitas suatu perguruan tinggi. Kualitas perguruan tinggi di indonesia di ukur berdasarkan akreditasi yang dilaksanakan oleh BAN-PT. Algoritma yang 
+digunakan  untuk prediksi kelulusan adalah algoritma naive bayes. algoritma naive bayes digunakan untuk memprediksi peluang masa depan berdasarkan pengalaman 
+atau data di masa lampau. penelitian dilakukan dengan membagi data menjadi 2 yaitu sebagai data latih [training set] yang diambil dari data histori lulusan sebanyak 
+129 data, dan data uji [testing set] dari data mahasiswa di tingkat 3 atau semester 6 yang belum menyelesaikan masa studinya sebanyak 10 data.
+pada penelitian ini atribut yang diggunakan adalah jenis kelamin, Asal daerah, Jurusan sekolah, indeks prestasi kumulatif, dan status kelulusan. 
+hasil penelitian ini dapat dimanfaatkan oleh pihak insitut drg.suherman sebagai langkah preventif untuk menghindari penurunan kelulusan mahasiswa setiap tahunnya.
+
+Kata kunci: naive bayes, kelulusan mahasiswa, prediksi.
+KESIMPULAN   :
+Hasil dari penelitian ini merupakan sebuah aplikasi kelulusan mahasiswa institut medika drg.suherman dengan menggunakan algoritma naive bayes dengan hasil sebagai berikut:
+1. dengan adanya aplikasi ini tingkat kelulusan dapat diprediksi sehingga membantu institusi untuk melakukan langkah langkah yang tepat bagi mahasiswa yang termasuk 
+  kedalam mahasiswa tidak lulus.
+2. penerapan algoritma naive bayes dapat dilakukan untuk memprediksi  kelulusan mahasiswa pada institut medika drg.suherman.
+3. pengujian blackbox menunjukan bahwa semua modul dalam aplikasi dapat berjalan baik sesuai fungsinya.
